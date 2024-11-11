@@ -2,6 +2,10 @@
 
 **ReactMoviePicker** is a React application that allows users to select a movie genre and fetch a random movie from The Movie Database (TMDb) API, providing detailed information about each movie.
 
+## Live Demo
+
+This project is hosted on Cloudflare Pages. Check out the live version here: [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://7245a5bc.randommoviepicker.pages.dev/)
+
 ## Features
 - Genre selection for random movie recommendations.
 - Detailed movie information including poster, title, overview, release date, trailers, casts, and user reviews.
